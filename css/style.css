@@ -1,0 +1,120 @@
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:900&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Titan+One&display=swap");
+
+
+
+
+*,
+*::before,
+*::after{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+html{
+	font-size: 16px;
+}
+
+
+body {
+	
+	font-family:"Poppins", sans-serif;
+	line-height: 1;
+	}
+.text{
+		font-family: "Titan One", sans-serif ;
+	font-size: 20px;
+color: forestgreen;
+text-align: center;}
+
+
+
+h1{
+
+	font-size: 40px;
+	color: firebrick;
+	font-style: oblique;
+	text-align: center;
+
+}
+.top{
+	font-size: 20px;
+	font-weight: 900;
+	text-align: center;
+	text-transform: uppercase;
+	color: yellow;
+}
+div{
+	color: gold;
+	text-align: right;
+
+}
+p.color{text-decoration: underline;
+	font-size: 20px;
+	text-transform: capitalize;
+	color:blue}
+
+
+
+
+p.bot{
+	text-shadow: 1px 2px 1px red;
+	text-transform: lowercase;
+font-style: oblique;}
+p.smoke{
+	color: forestgreen;
+	font-size: 20PX;
+	text-transform: lowercase;
+	font-style: italic;
+}
+
+
+
+
+ol li{
+	text-transform: uppercase;
+	color: violet;
+	line-height: 150%;
+	word-spacing: 10px;
+	
+	font-style: oblique;
+}
+ul li{
+	letter-spacing: 5px;
+	color: darkturquoise;
+	text-indent: 50px;
+	white-space: normal;
+}
+
+
+
+	
+
+
+	
+
